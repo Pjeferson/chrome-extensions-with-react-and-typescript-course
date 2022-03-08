@@ -1,0 +1,46 @@
+body {
+  background-color: indianred;
+}
+
+h1 {
+  color: whitesmoke;
+  text-align: center;
+  font-size: 50px;
+  margin: 10px;
+  font-weight: normal;
+}
+
+h2 {
+  font-weight: normal;
+  color: whitesmoke;
+}
+
+hr {
+  height: 4px;
+  border-radius: 4px;
+  background-color: whitesmoke;
+  border: none;
+  margin: 0;
+}
+
+#pomodoro-time {
+  border: none;
+  padding: 4px 8px;
+  border-radius: 4px;
+  outline: none;
+  background-color: whitesmoke;
+  width: 300px;
+}
+
+#save-btn {
+  margin-top: 40px;
+  border: none;
+  outline: none;
+  border-radius: 4px;
+  color: indianred;
+  cursor: pointer;
+  background-color: whitesmoke;
+  font-weight: bold;
+  display: block;
+  padding: 8px;
+}
